@@ -1,1 +1,1 @@
-This file is mandatory in projects
+Giving vagrant a spin
